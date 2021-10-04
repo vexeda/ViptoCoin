@@ -1,0 +1,26 @@
+# /etc/conf.d/viptocoind: config file for /etc/init.d/viptocoind
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/viptocoin/viptocoin.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/viptocoind"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/viptocoind.pid"
+
+# Where to write viptocoind data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/viptocoind"
+
+# User and group to own viptocoind process
+#BITCOIND_USER="viptocoin"
+#BITCOIND_GROUP="viptocoin"
+
+# Path to viptocoind executable
+#BITCOIND_BIN="/usr/bin/viptocoind"
+
+# Nice value to run viptocoind under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
