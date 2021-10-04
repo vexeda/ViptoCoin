@@ -1,13 +1,13 @@
-viptocoin
+ViptoCoin
 =====================
 
 Setup
 ---------------------
-[viptocoin](https://www.viptocoinproject.org/viptocoin-wallets/) is the original viptocoin client and it builds the backbone of the network. However, it downloads and stores the entire history of viptocoin transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from one to two hours. Thankfully you only have to do this once.
+[ViptoCoin](https://viptocoin.com/wallets/) is the original viptocoin client and it builds the backbone of the network. However, it downloads and stores the entire history of viptocoin transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from one to two hours. Thankfully you only have to do this once.
 
 Running
 ---------------------
-The following are some helpful notes on how to run viptocoin on your native platform.
+The following are some helpful notes on how to run ViptoCoin on your native platform.
 
 ### Unix
 
