@@ -1,0 +1,11 @@
+[Protocol]
+exec=viptocoin-qt '%u'
+protocol=viptocoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
