@@ -28,9 +28,6 @@ Drag viptocoin-Qt to your applications folder, and then run viptocoin-Qt.
 
 * See the documentation at the [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page) ***TODO***
 for help and more information.
-* Ask for help on our [Website](https://www.viptocoinproject.org/help-support/) or on help-support channel in [Discord](http://discordapp.com/invite/B8F7Jdv).
-* Join our Discord server [Discord Server](http://discordapp.com/invite/B8F7Jdv)
-* Join our Telegram group [Telegram](http://t.me/viptocoincoin )
 
 ### Resources
 
