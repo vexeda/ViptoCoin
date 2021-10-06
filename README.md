@@ -43,7 +43,7 @@ Security is another very important point on which today's world stands. By using
 Applications are the future need for higher efficiency and cost reduction. ViptoCoin is your solution for decentralized Payments.
 
 ### Efficiency
-ViptoCoin uses the NIST5 hash, which is chosen as the winning algorithm by the US Nation of Science competition. Combination of security and mining efficiency were the key points taken into account.
+ViptoCoin uses the NIST5 hash, which is chosen as the winning algorithm by the US Nation of Science competition. Combination of security and mining efficiency were the key points taken into account. NIST5 has been shown to be more power efficient and secure than other prominent algorithms.
 
 
 # Why NIST5?
