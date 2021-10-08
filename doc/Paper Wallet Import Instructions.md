@@ -1,7 +1,7 @@
 # Paper Wallet Import Instructions
 
 <p align="center">
-    <img src="https://media.discordapp.net/attachments/516295832904138762/542275592704491521/bitcoin.png"
+    <img src="https://viptocoin.com/index.html"
         height="130">
 </p>
 
