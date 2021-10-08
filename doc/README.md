@@ -24,14 +24,6 @@ Run the installer, and then run viptocoin-qt.exe.
 
 Drag viptocoin-Qt to your applications folder, and then run viptocoin-Qt.
 
-### Need Help?
-
-* See the documentation at the [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page) ***TODO***
-for help and more information.
-
-### Resources
-
-* Discuss on the [BitcoinTalk](https://bitcointalk.org/index.php?topic=1848351.0)
 
 ### Miscellaneous
 
