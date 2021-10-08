@@ -5,7 +5,7 @@
         height="130">
 </p>
 
-### Before you begin, you’ll need to download the `viptocoin QT wallet` : https://viptocoinproject.org/wallets/
+### Before you begin, you’ll need to download the `viptocoin QT wallet` : https://viptocoin.com
 
 
 ## Windows/Mac/Linux 
@@ -31,7 +31,5 @@
 If you experience any difficulties, please contact one of our experienced viptocoin community members, available on these platforms: 
 
 
-Discord: https://discord.gg/B8F7Jdv 
+Discord: https://discord.gg/FR88MYReag
 (please join the `#help-support` channel for assistance) 
- 
-Telegram: https://t.me/viptocoincoin viptocoin
