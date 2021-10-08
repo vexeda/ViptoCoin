@@ -1,7 +1,7 @@
 # Paper Wallet Import Instructions
 
 <p align="center">
-    <img src="https://viptocoin.com/index.html"
+    <img src="https://viptocoin.com/assets/img/logo.png"
         height="130">
 </p>
 
