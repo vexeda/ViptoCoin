@@ -1,6 +1,12 @@
 # ViptoCoin
 ![screenshot](https://viptotracker.com/images/logo.png)
 
+ViptoCoin Core integration/staging tree
+For an immediately usable, binary version of the ViptoCoin Core software, see
+Windows -> https://viptocoin.com/wallets/viptocoin-qt.exe.zip
+MacOS -> https://viptocoin.com/wallets/viptocoin.dmg
+Linux -> https://viptocoin.com/wallets/viptocoin-qt.zip
+
 # What is ViptoCoin?
 ViptoCoin is a cryptocurrency that exists on its own distributed and decentralized ledger also known as a Blockchain using the highly-secure and power-efficient NIST5 algorithm. Combining limited Proof-of-Work, ViptoCoin is unique in its distribution.
 
