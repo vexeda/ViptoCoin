@@ -1,5 +1,5 @@
 # ViptoCoin
-
+![screenshot](https://viptotracker.com/images/logo.png)
 
 # What is ViptoCoin?
 ViptoCoin is a cryptocurrency that exists on its own distributed and decentralized ledger also known as a Blockchain using the highly-secure and power-efficient NIST5 algorithm. Combining limited Proof-of-Work, ViptoCoin is unique in its distribution. 
