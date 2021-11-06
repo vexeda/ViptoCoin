@@ -2,17 +2,20 @@
 ![screenshot](https://viptotracker.com/images/logo.png)
 
 ViptoCoin Core integration/staging tree
-For an immediately usable, binary version of the ViptoCoin Core software, see
-Windows -> https://viptocoin.com/wallets/viptocoin-qt.exe.zip
-MacOS -> https://viptocoin.com/wallets/viptocoin.dmg
-Linux -> https://viptocoin.com/wallets/viptocoin-qt.zip
+For an immediately usable, binary version of the ViptoCoin Core software, see <br>
+Windows -> https://viptocoin.com/wallets/viptocoin-qt.exe.zip <br>
+MacOS -> https://viptocoin.com/wallets/viptocoin.dmg <br>
+Linux -> https://viptocoin.com/wallets/viptocoin-qt.zip <br>
 
 # What is ViptoCoin?
 ViptoCoin is a cryptocurrency that exists on its own distributed and decentralized ledger also known as a Blockchain using the highly-secure and power-efficient NIST5 algorithm. Combining limited Proof-of-Work, ViptoCoin is unique in its distribution.
 
-Website: [viptocoin.com](https://viptocoin.com/)
-Tracker: [viptotracker.com](https://viptotracker.com/)
-Webwallet: [viptowallet.com](https://viptowallet.com/)
+Website: [viptocoin.com](https://viptocoin.com/) <br>
+Tracker: [viptotracker.com](https://viptotracker.com/) <br>
+Webwallet: [viptowallet.com](https://viptowallet.com/) <br>
+
+For more information read the original ViptoCoin whitepaper. <br>
+[whitepaper.io](https://whitepaper.io/document/766/viptocoin-whitepaper/) and also accessible from [viptocoin.com](https://viptocoin.com/assets/Whitepaper.pdf)
 
 <a name="specifications"></a>
 ## Technical Specifications
