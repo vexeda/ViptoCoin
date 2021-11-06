@@ -27,6 +27,8 @@ ViptoCoin is a cryptocurrency that exists on its own distributed and decentraliz
 ## Work in progress
 <table>
 <tr> <td>SegWit</td></tr>
+<tr> <td>Exchanges</td></tr>
+<tr> <td>Mobile Wallets</td></tr>
 </table>
 
 
