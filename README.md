@@ -13,6 +13,7 @@ ViptoCoin is a cryptocurrency that exists on its own distributed and decentraliz
 <tr> <td>Maximum Supply</td><td>786,000,000 </td></tr>
 <tr> <td>Block Time</td><td>60 Seconds</td></tr>
 <tr> <td>Block Size</td><td>10 MB</td></tr>
+<tr> <td>Subsidy Halves</td><td>400k Blocks</td></tr>
 <tr> <td>Transactions Per Second</td><td>~800</td></tr>
 <tr> <td>Retarget</td><td>Every Block</td></tr>
 <tr> <td>Lightning Network</td><td>Yes</td></tr>
@@ -20,6 +21,8 @@ ViptoCoin is a cryptocurrency that exists on its own distributed and decentraliz
 <tr> <td>Premine</td><td>186,000,000</td></tr>
 <tr> <td>Foundation</td><td>Yes</td></tr>
 </table>
+
+![screenshot](https://viptocoin.com/assets/halvingpie.png)
 
 ## Work in progress
 <table>
