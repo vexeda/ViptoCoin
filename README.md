@@ -1,5 +1,18 @@
 # ViptoCoin
-![screenshot](https://viptotracker.com/images/logo.png)
+
+<p align="center">
+    <img src="https://viptotracker.com/images/logo.png"
+        height="130">
+</p>
+
+<p align="center">
+    <a href="https://discord.gg/FR88MYReag">
+        <img src="https://img.shields.io/discord/895607376332353546"
+            alt="chat on Discord"></a>
+    <a href="https://twitter.com/intent/follow?screen_name=ViptoCoin">
+        <img src="https://img.shields.io/twitter/follow/ViptoCoin?style=social"
+            alt="follow on Twitter"></a>
+</p>
 
 ViptoCoin Core integration/staging tree
 For an immediately usable, binary version of the ViptoCoin Core software, see <br>
