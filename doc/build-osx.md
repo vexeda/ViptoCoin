@@ -69,6 +69,14 @@ If you need to have openssl first in your PATH run:
 5.  (Optional) You can also install viptocoind to your path:
 
         make install
+        
+6. Deploy (optional)
+
+You can also create a  `.dmg` containing the `.app` bundle by running the following command:
+
+``` bash
+make deploy
+```
 
 Use Qt Creator as IDE
 ------------------------
