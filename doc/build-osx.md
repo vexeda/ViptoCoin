@@ -58,7 +58,7 @@ If you need to have openssl first in your PATH run:
 
 3.  Build viptocoind:
 
-        ./autogen.sh
+        ./autogen.sh (if permission denined : chmod +x autogen.sh)
         ./configure --with-gui=qt5
         make
 
