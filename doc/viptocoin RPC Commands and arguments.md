@@ -51,7 +51,7 @@ Start viptocoin Core Daemon with option:
 <tr> <td>--pid=<file></td><td>Specify pid file (default: viptocoind.pid)</td></tr>
 <tr> <td>--reindex</td><td>Rebuild chain state and block index from the blk*.dat files on startup</td></tr>
 <tr> <td>--reindexaccumulators</td><td>Reindex the accumulator database on startup</td></tr>
-<tr> <td>--reindexmoneysupply</td><td>Reindex the viptocoin and zECA money supply statistics on startup</td></tr>
+<tr> <td>--reindexmoneysupply</td><td>Reindex the viptocoin and VCC money supply statistics on startup</td></tr>
 <tr> <td>--resync</td><td>Delete blockchain folders and resync from scratch on startup</td></tr>
 <tr> <td>--sysperms</td><td>Create new files with system default permissions, instead of umask 077 (only effective with disabled wallet functionality)</td></tr>
 <tr> <td>--txindex</td><td>Maintain a full transaction index, used by the getrawtransaction rpc call (default: 1)</td></tr>
@@ -135,7 +135,7 @@ Start viptocoin Core Daemon with option:
 <table>
 <tr> <td>--staking=<n></td><td>Enable staking functionality (0-1, default: 1)
 <tr> <td>--ecastake=<n></td><td>Enable or disable staking functionality for viptocoin inputs (0-1, default: 1)
-<tr> <td>--zecastake=<n></td><td>Enable or disable staking functionality for zECA inputs (0-1, default:1)
+<tr> <td>--zecastake=<n></td><td>Enable or disable staking functionality for VCC inputs (0-1, default:1)
 <tr> <td>--reservebalance=<amt></td><td>Keep the specified amount available for spending at all times (default:0)
 </table>
 
