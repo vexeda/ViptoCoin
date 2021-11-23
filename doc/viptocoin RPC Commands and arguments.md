@@ -8,7 +8,7 @@ The configuration file is not automatically created; you can create it using you
 | Platform	   |Path to data folder           | Typical path to configuration file                                                 |
 |------------|--------------------------------|------------------------------------------------------------------------------------|
 | Linux	     | ~/	                            | /home/username/.viptocoin/viptocoin.conf                                               |
-| macOS      | ~/Library/Application Support/	| /Users/username/Library/Application Support/Eletra/viptocoin.conf                    |
+| macOS      | ~/Library/Application Support/	| /Users/username/Library/Application Support/viptocoin/viptocoin.conf                    |
 | Windows	   | %APPDATA%	                    | (Vista-10) C:\Users\username\AppData\Roaming\viptocoin\viptocoin.conf                  |
 |            |                                | (2000-XP) C:\Documents and Settings\username\Application Data\viptocoin\viptocoin.conf |
 
