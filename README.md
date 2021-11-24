@@ -16,8 +16,8 @@
 
 ViptoCoin Core integration/staging tree
 For an immediately usable, binary version of the ViptoCoin Core software, see <br>
-Windows -> https://viptocoin.com/wallets/viptocoin-qt.exe.zip <br>
-MacOS -> https://viptocoin.com/wallets/viptocoin.dmg <br>
+Windows -> https://viptocoin.com/wallets/viptocoin-winV214.zip <br>
+MacOS -> https://viptocoin.com/wallets/viptocoin.dmg.zip <br>
 Linux -> https://viptocoin.com/wallets/viptocoin-qt.zip <br>
 
 # What is ViptoCoin?
